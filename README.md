@@ -1,5 +1,5 @@
-# Data Science portfolio by Andrew King
-This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
+# Portfolio by Andrew King
+This portfolio is a compilation of projects that I have worked on in the past with an emphesis on data anlysis and machine learning.
 # [Project 1: Loan Application Prediction](https://github.com/AKing2713/AndrewKing_Portfolio/blob/main/LoanPrediction/loan_predication.ipynb)
 * Performed exploratory data analysis with various python libraries(numpy, pandas, matplotlib, seaborn)
 * Transformed data in various ways to include:
